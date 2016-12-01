@@ -2,7 +2,9 @@
 
 This project was for me to play around and create an web app that can convert degrees between Cel and Fah. This started as a group project and then I expanded and added more to it.
 http://degree-convertor.bitballoon.com/
-![alt tag](http://imgur.com/a/Lt9qI)
+
+![alt tag](https://i.imgur.com/Z38oT3p.png)
+
 #How It Was Made
 
 HTML,CSS,and Javascript
